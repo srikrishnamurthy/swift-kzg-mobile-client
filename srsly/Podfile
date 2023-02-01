@@ -1,0 +1,4 @@
+target 'srsly' do
+	use_frameworks!
+	pod 'bls-signatures-pod'
+end
